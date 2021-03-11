@@ -1,0 +1,8 @@
+# find time complexity of the following pseudo code
+
+for (i = 1 ; i <=n; i=i*2)
+    for(j=1;j<=i;j++)
+        print("hello")
+        
+ Answer: 
+ time complexity of above code is T(n)= O(n^2)
