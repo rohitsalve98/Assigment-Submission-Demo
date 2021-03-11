@@ -1,0 +1,4 @@
+# Question 1 --  Write a python program that takes two numbers as the input such as x and y and print result of x^y(x to the power of y)
+x = int(input("enter number for x: "))
+y = int(input("enter number for y: "))
+print("result of x and y is : ", x**y)
